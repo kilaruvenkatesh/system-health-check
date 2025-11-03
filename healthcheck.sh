@@ -38,9 +38,9 @@ for service in nginx ssh; do
         powershell.exe -Command "Get-Service -Name $service -ErrorAction SilentlyContinue | Select Status,Name" | tr -d '\r'
     fi
 done
+echo
 
-
-echo "-------------------------------------------"
-echo ""
+echo "Health check completed at: $TIMESTAMP"
+echo "========================================"
 } >> "$LOGFILE"
 

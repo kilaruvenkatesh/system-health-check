@@ -618,3 +618,50 @@ nginx : Not Running
 ssh : Not Running
 -------------------------------------------
 
+===========================================
+ System Health Report - 2025-11-03 14:20:45
+===========================================
+Current Date & Time: Mon, Nov  3, 2025  2:20:45 PM
+System Uptime:
+
+Thursday, October 30, 2025 5:25:00 PM
+
+
+
+CPU Load:
+25.8698010283633
+
+Memory Usage (MB):
+
+TotalVisibleMemorySize FreePhysicalMemory
+---------------------- ------------------
+               8097744            1560488
+
+
+
+Disk Usage:
+
+Name        Used         Free
+----        ----         ----
+C    71673303040 183593082880
+
+
+
+Top 5 Memory Consuming Processes:
+
+ProcessName           Id CPU                PM
+-----------           -- ---                --
+Memory Compression  3220               2084864
+chrome             18100 1013.921875 429166592
+WhatsApp            7560 204.1875    299368448
+MsMpEng             4644             453599232
+Code               18680 201.25      306044928
+
+
+
+Service Status (nginx, ssh):
+nginx : Not Running
+ssh : Not Running
+
+Health check completed at: 2025-11-03 14:20:45
+========================================
