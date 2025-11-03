@@ -28,11 +28,17 @@ echo ""
 echo "Top 5 Memory Consuming Processes:"
 powershell.exe -Command "Get-Process | Sort-Object WorkingSet -Descending | Select -First 5 | Select ProcessName,Id,CPU,PM" | tr -d '\r'
 echo ""
-
-echo "Service Status:"
-for service in sshd nginx; do
-  powershell.exe -Command "Get-Service -Name $service -ErrorAction SilentlyContinue | Select Status,Name" | tr -d '\r'
+echo "Service Status (nginx, ssh):"
+for service in nginx ssh; do
+    if command -v sc >/dev/null 2>&1; then
+        # windows service check using sc
+        sc query "$service" | grep "RUNNING" >/dev/null 2>&1 && echo "$service : Running" || echo "$service : Not Running"
+    else
+        # fallback powershell
+        powershell.exe -Command "Get-Service -Name $service -ErrorAction SilentlyContinue | Select Status,Name" | tr -d '\r'
+    fi
 done
+
 
 echo "-------------------------------------------"
 echo ""

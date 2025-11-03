@@ -130,3 +130,491 @@ MsMpEng             7112            438464512
 Service Status:
 -------------------------------------------
 
+===========================================
+ System Health Report - 2025-10-29 15:21:41
+===========================================
+Current Date & Time: Wed Oct 29 15:21:41 IST 2025
+System Uptime:
+
+Tuesday, October 14, 2025 10:21:11 AM
+
+
+
+CPU Load:
+3.89926949025888
+
+Memory Usage (MB):
+
+TotalVisibleMemorySize FreePhysicalMemory
+---------------------- ------------------
+               8097744            1500084
+
+
+
+Disk Usage:
+
+Name        Used         Free
+----        ----         ----
+C    59966877696 195299508224
+
+
+
+Top 5 Memory Consuming Processes:
+
+ProcessName           Id         CPU        PM
+-----------           --         ---        --
+msedgewebview2     12248 3327.265625 849686528
+chrome             21172 1138.109375 397754368
+msedge             21968  460.453125 366665728
+Memory Compression  2828               2236416
+msedge             24556  596.953125 138186752
+
+
+
+Service Status:
+-------------------------------------------
+
+===========================================
+ System Health Report - 2025-10-29 15:25:40
+===========================================
+Current Date & Time: Wed Oct 29 15:25:40 IST 2025
+System Uptime:
+
+Tuesday, October 14, 2025 10:21:11 AM
+
+
+
+CPU Load:
+2.22012910591999
+
+Memory Usage (MB):
+
+TotalVisibleMemorySize FreePhysicalMemory
+---------------------- ------------------
+               8097744            1623716
+
+
+
+Disk Usage:
+
+Name        Used         Free
+----        ----         ----
+C    59963617280 195302768640
+
+
+
+Top 5 Memory Consuming Processes:
+
+ProcessName           Id         CPU        PM
+-----------           --         ---        --
+msedgewebview2     12248    3327.375 846376960
+chrome             21172 1193.453125 411127808
+msedge             21968  463.734375 331395072
+Memory Compression  2828               2236416
+msedge             24556  606.609375 137977856
+
+
+
+Service Status:
+-------------------------------------------
+
+===========================================
+ System Health Report - 2025-10-29 16:54:46
+===========================================
+Current Date & Time: Wed, Oct 29, 2025  4:54:46 PM
+System Uptime:
+
+Tuesday, October 14, 2025 10:21:11 
+AM
+
+
+
+CPU Load:
+6.58757654702765
+
+Memory Usage (MB):
+
+TotalVisibleMemorySize FreePhysical
+                             Memory
+---------------------- ------------
+               8097744      1875924
+
+
+
+Disk Usage:
+
+Name        Used         Free
+----        ----         ----
+C    60733370368 194533015552
+
+
+
+Top 5 Memory Consuming Processes:
+
+ProcessName    Id        CPU     PM
+-----------    --        ---     --
+chrome      21172  1447.1875 ...248
+msedge      21968   510.5625 ...064
+Code         6220  57.546875 ...968
+msedge      24556 773.765625 ...800
+Code        19900    4.90625 ...896
+
+
+
+Service Status:
+-------------------------------------------
+
+===========================================
+ System Health Report - 2025-10-29 16:57:38
+===========================================
+Current Date & Time: Wed, Oct 29, 2025  4:57:38 PM
+System Uptime:
+
+Tuesday, October 14, 2025 10:21:11 AM
+
+
+
+CPU Load:
+23.7901382721869
+
+Memory Usage (MB):
+
+TotalVisibleMemorySize FreePhysicalMemory
+---------------------- ------------------
+               8097744            1830624
+
+
+
+Disk Usage:
+
+Name        Used         Free
+----        ----         ----
+C    60735356928 194531028992
+
+
+
+Top 5 Memory Consuming Processes:
+
+ProcessName           Id         CPU        PM
+-----------           --         ---        --
+chrome             21172 1477.109375 590163968
+msedge             21968      512.25 344002560
+Code                6220     64.6875 276688896
+msedge             24556  776.171875 138739712
+Memory Compression  2828               2326528
+
+
+
+Service Status:
+-------------------------------------------
+
+===========================================
+ System Health Report - 2025-10-29 18:06:46
+===========================================
+Current Date & Time: Wed, Oct 29, 2025  6:06:47 PM
+System Uptime:
+
+Tuesday, October 14, 2025 10:21:11 AM
+
+
+
+CPU Load:
+7.67019385116675
+
+Memory Usage (MB):
+
+TotalVisibleMemorySize FreePhysicalMemory
+---------------------- ------------------
+               8097744            1620912
+
+
+
+Disk Usage:
+
+Name        Used         Free
+----        ----         ----
+C    60746391552 194519994368
+
+
+
+Top 5 Memory Consuming Processes:
+
+ProcessName           Id        CPU        PM
+-----------           --        ---        --
+chrome             21172 1545.46875 481325056
+Memory Compression  2828              2326528
+msedge             21968 556.234375 354971648
+msedge             24556 867.796875 140025856
+Code                6220 140.453125 297672704
+
+
+
+Service Status:
+-------------------------------------------
+
+===========================================
+ System Health Report - 2025-10-30 12:23:51
+===========================================
+Current Date & Time: Thu, Oct 30, 2025 12:23:51 PM
+System Uptime:
+
+Tuesday, October 14, 2025 10:21:11 AM
+
+
+
+CPU Load:
+15.9385860888989
+
+Memory Usage (MB):
+
+TotalVisibleMemorySize FreePhysicalMemory
+---------------------- ------------------
+               8097744             508136
+
+
+
+Disk Usage:
+
+Name        Used         Free
+----        ----         ----
+C    61212536832 194053849088
+
+
+
+Top 5 Memory Consuming Processes:
+
+ProcessName       Id         CPU        PM
+-----------       --         ---        --
+msedgewebview2 12248    4055.625 959184896
+chrome         21172 1637.203125 570978304
+Code            8748        4.25 437006336
+msedge         21968    1000.125 403972096
+MsMpEng         7112             458620928
+
+
+
+Service Status:
+-------------------------------------------
+
+===========================================
+ System Health Report - 2025-11-03 12:43:10
+===========================================
+Current Date & Time: Mon, Nov  3, 2025 12:43:10 PM
+System Uptime:
+
+Thursday, October 30, 2025 5:25:00 PM
+
+
+
+CPU Load:
+16.0254068844843
+
+Memory Usage (MB):
+
+TotalVisibleMemorySize FreePhysicalMemory
+---------------------- ------------------
+               8097744            1160020
+
+
+
+Disk Usage:
+
+Name        Used         Free
+----        ----         ----
+C    71287947264 183978438656
+
+
+
+Top 5 Memory Consuming Processes:
+
+ProcessName           Id        CPU        PM
+-----------           --        ---        --
+chrome             18100 701.484375 520273920
+Memory Compression  3220              2101248
+MsMpEng             4644            440709120
+Code               18680  32.796875 244645888
+WhatsApp            7560  113.21875 290828288
+
+
+
+Service Status:
+-------------------------------------------
+
+===========================================
+ System Health Report - 2025-11-03 12:43:19
+===========================================
+Current Date & Time: Mon, Nov  3, 2025 12:43:19 PM
+System Uptime:
+
+Thursday, October 30, 2025 5:25:00 PM
+
+
+
+CPU Load:
+27.3045957525873
+
+Memory Usage (MB):
+
+TotalVisibleMemorySize FreePhysicalMemory
+---------------------- ------------------
+               8097744            1157172
+
+
+
+Disk Usage:
+
+Name        Used         Free
+----        ----         ----
+C    71288274944 183978110976
+
+
+
+Top 5 Memory Consuming Processes:
+
+ProcessName           Id        CPU        PM
+-----------           --        ---        --
+chrome             18100 701.484375 520273920
+Memory Compression  3220              2101248
+MsMpEng             4644            441016320
+Code               18680  33.515625 250204160
+WhatsApp            7560  113.21875 290828288
+
+
+
+Service Status:
+-------------------------------------------
+
+===========================================
+ System Health Report - 2025-11-03 12:43:24
+===========================================
+Current Date & Time: Mon, Nov  3, 2025 12:43:24 PM
+System Uptime:
+
+Thursday, October 30, 2025 5:25:00 PM
+
+
+
+CPU Load:
+42.2910718515592
+
+Memory Usage (MB):
+
+TotalVisibleMemorySize FreePhysicalMemory
+---------------------- ------------------
+               8097744            1139688
+
+
+
+Disk Usage:
+
+Name        Used         Free
+----        ----         ----
+C    71289409536 183976976384
+
+
+
+Top 5 Memory Consuming Processes:
+
+ProcessName           Id        CPU        PM
+-----------           --        ---        --
+chrome             18100 701.484375 511057920
+Memory Compression  3220              2101248
+MsMpEng             4644            453431296
+Code               18680  35.703125 269877248
+WhatsApp            7560  113.21875 290828288
+
+
+
+Service Status:
+-------------------------------------------
+
+===========================================
+ System Health Report - 2025-11-03 13:55:40
+===========================================
+Current Date & Time: Mon, Nov  3, 2025  1:55:40 PM
+System Uptime:
+
+Thursday, October 30, 2025 5:25:00 PM
+
+
+
+CPU Load:
+20.4734976310321
+
+Memory Usage (MB):
+
+TotalVisibleMemorySize FreePhysicalMemory
+---------------------- ------------------
+               8097744            1499928
+
+
+
+Disk Usage:
+
+Name        Used         Free
+----        ----         ----
+C    70973485056 184292900864
+
+
+
+Top 5 Memory Consuming Processes:
+
+ProcessName           Id        CPU        PM
+-----------           --        ---        --
+chrome             18100 823.765625 475967488
+Memory Compression  3220              2080768
+MsMpEng             4644            441896960
+WhatsApp            7560 150.265625 295759872
+Code               18680   118.6875 288067584
+
+
+
+Service Status:
+-------------------------------------------
+
+===========================================
+ System Health Report - 2025-11-03 14:02:56
+===========================================
+Current Date & Time: Mon, Nov  3, 2025  2:02:56 PM
+System Uptime:
+
+Thursday, October 30, 2025 5:25:00 PM
+
+
+
+CPU Load:
+26.7011521006863
+
+Memory Usage (MB):
+
+TotalVisibleMemorySize FreePhysicalMemory
+---------------------- ------------------
+               8097744            1558816
+
+
+
+Disk Usage:
+
+Name        Used         Free
+----        ----         ----
+C    70980468736 184285917184
+
+
+
+Top 5 Memory Consuming Processes:
+
+ProcessName           Id       CPU        PM
+-----------           --       ---        --
+chrome             18100 920.15625 590532608
+Memory Compression  3220             2076672
+WhatsApp            7560 155.78125 300314624
+MsMpEng             4644           444170240
+Code               18680 146.28125 278863872
+
+
+
+Service Status (nginx, ssh):
+nginx : Not Running
+ssh : Not Running
+-------------------------------------------
+
